@@ -36,7 +36,7 @@ const Hero = () => {
               <p>
                 Welcome to our pizza paradise! We are passionate about delivering the freshest, tastiest pizzas made with love. Our mission is to bring joy to your taste buds with every bite. Experience the difference with our hand-crafted recipes and finest ingrediants.
               </p>
-              
+              <br/>
               <button className="flex flex-col justify-center items-center bg-red-500 w-1/5 rounded-[10px] w-40 h-10 text-white hover:bg-red-700">Learn More</button>
             </div>
             <div class="w-11/12">
